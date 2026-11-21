@@ -324,3 +324,17 @@ The results identify patterns, but further investigation would be needed to unde
 
 **Focus:** Data Cleaning | EDA | SQL Analysis | Dashboard Development | Business Insights
 
+## Author
+
+**Naresh Ireni**  
+Aspiring Data Analyst
+
+I'm interested in working with data to understand business problems, find meaningful patterns and communicate insights that can support better decisions.
+
+This project was an opportunity to apply my skills in Excel, Python, SQL and Power BI through a complete data analysis workflow.
+
+**GitHub:** NareshIreni
+
+---
+*Feedback and suggestions are welcome.*
+
