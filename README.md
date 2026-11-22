@@ -162,6 +162,20 @@ The dashboard includes:
 
 I also included interactive slicers, dynamic report titles, dynamic business insights, bookmarks and drill-through functionality.
 
+## Power BI Dashboard
+
+### 1. Executive Overview
+![Executive Overview](power%20bi/screenshots/Executive%20Overview.png)
+
+### 2. Churn Drivers
+![Churn Drivers](power%20bi/screenshots/Churn_drivers.png)
+
+### 3. Retention Strategy
+![Retention Strategy](power%20bi/screenshots/Retention_strategy.png)
+
+### 4. Customer Segment Details
+![Customer Segment Details](power%20bi/screenshots/customer_segment_details.png)
+
 
 
 ## Key Findings
