@@ -65,19 +65,12 @@ The dataset contains customer details, subscribed services, contract information
 
 
 | Tool | How I Used It |
-
 |---|---|
-
 | Microsoft Excel | Data cleaning, quality checks, initial analysis and PivotTables |
-
 | Python | Exploratory Data Analysis using Pandas, NumPy, Matplotlib and Seaborn |
-
 | MySQL | Data validation and business-related SQL queries |
-
 | Power BI | Interactive dashboards, KPIs, slicers, dynamic reporting and drill-through |
-
 | Microsoft Word | Business findings and project documentation |
-
 | GitHub | Project version control and portfolio presentation |
 
 
