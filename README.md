@@ -188,32 +188,20 @@ The overall customer churn rate was **26.54%**, representing 1,869 churned custo
 
 Some of the important findings were:
 
-
-
 | Customer Segment | Churn Rate |
-
 |---|---:|
-
 | Month-to-month contracts | 42.71% |
-
 | One-year contracts | 11.27% |
-
 | Two-year contracts | 2.83% |
-
 | Customers with 0–12 months tenure | 47.44% |
-
 | Electronic-check users | 45.29% |
-
 | Fiber optic customers | 41.89% |
-
 | Customers without technical support | 41.64% |
-
 | Senior citizen customers | 41.68% |
-
+| Customers with monthly charges of $70.01–$100 | 37.82% |
 
 
 These results helped identify customer groups where churn was considerably higher than the overall rate.
-
 
 
 **Note:** These findings show associations in the historical dataset. They do not establish that any particular factor directly causes customers to leave.
@@ -252,15 +240,22 @@ These are suggested actions that would need further investigation and testing.
 
 ```text
 
+## Repository Structure
+
+```text
 Customer-Churn-Retention-Analysis/
 │
 ├── data/
 │   ├── raw/
+│   │   └── customer_churn.csv
 │   └── cleaned/
+│       └── customer_churn_cleaned.csv
 │
 ├── excel/
+│   └── Customer-Churn_Analysis.xlsx
 │
 ├── python/
+│   └── Customer_churn_Analysis.ipynb
 │
 ├── sql/
 │   ├── 01_setup_and_import.sql
@@ -271,11 +266,16 @@ Customer-Churn-Retention-Analysis/
 ├── power bi/
 │   ├── Customer_Churn_Retention_Dashboard.pbix
 │   └── screenshots/
+│       ├── Executive Overview.png
+│       ├── Churn_drivers.png
+│       ├── Retention_strategy.png
+│       └── customer_segment_details.png
 │
 ├── reports/
 │   └── Customer_Churn_Business_Insights_Report.docx
 │
 └── README.md
+```
 
 ```
 
@@ -319,7 +319,7 @@ The results identify patterns, but further investigation would be needed to unde
 
 **Focus:** Data Cleaning | EDA | SQL Analysis | Dashboard Development | Business Insights
 
-## Author
+## ## Author
 
 **Naresh Ireni**  
 Aspiring Data Analyst
@@ -328,7 +328,11 @@ I'm interested in working with data to understand business problems, find meanin
 
 This project was an opportunity to apply my skills in Excel, Python, SQL and Power BI through a complete data analysis workflow.
 
-**GitHub:** NareshIreni , 
+**GitHub:** [NareshIreni](https://github.com/NareshIreni), 
+
+---
+
+*Feedback and suggestions are welcome.*
 
 ---
 *Feedback and suggestions are welcome.*
