@@ -239,47 +239,28 @@ These are suggested actions that would need further investigation and testing.
 ```text
 
 Customer-Churn-Retention-Analysis/
-
 │
-
 ├── data/
-
 │   ├── raw/
-
 │   └── cleaned/
-
 │
-
 ├── excel/
-
 │
-
 ├── python/
-
 │
-
 ├── sql/
-
 │   ├── 01_setup_and_import.sql
-
 │   ├── 02_data_validation.sql
-
 │   ├── 03_churn_analysis.sql
-
 │   └── README.txt
-
 │
-
-├── powerbi/
-
+├── power bi/
+│   ├── Customer_Churn_Retention_Dashboard.pbix
+│   └── screenshots/
 │
-
 ├── reports/
-
 │   └── Customer_Churn_Business_Insights_Report.docx
-
 │
-
 └── README.md
 
 ```
@@ -333,7 +314,7 @@ I'm interested in working with data to understand business problems, find meanin
 
 This project was an opportunity to apply my skills in Excel, Python, SQL and Power BI through a complete data analysis workflow.
 
-**GitHub:** NareshIreni
+**GitHub:** NareshIreni , 
 
 ---
 *Feedback and suggestions are welcome.*
