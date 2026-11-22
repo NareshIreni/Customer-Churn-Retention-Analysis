@@ -236,12 +236,6 @@ These are suggested actions that would need further investigation and testing.
 
 ## Repository Structure
 
-
-
-```text
-
-## Repository Structure
-
 ```text
 Customer-Churn-Retention-Analysis/
 │
@@ -279,18 +273,12 @@ Customer-Churn-Retention-Analysis/
 
 ```
 
-
-
 ## What I Learned
-
-
 
 Working on this project gave me practical experience with the complete data analysis workflow.
 
 
-
 I learned how to handle data-quality issues, explore customer behaviour, write SQL queries, create business-focused visualisations and present findings through an interactive dashboard.
-
 
 
 One important takeaway was that calculating churn rates is only part of the work. Understanding which customer groups are affected and communicating what the business could investigate next is equally important.
@@ -304,14 +292,9 @@ One important takeaway was that calculating churn rates is only part of the work
 This analysis uses a historical snapshot of customer data. It does not include detailed customer feedback, satisfaction scores or complaint histories.
 
 
-
 The results identify patterns, but further investigation would be needed to understand the actual reasons behind customer churn and evaluate whether the suggested retention actions are effective.
 
-
-
 ---
-
-
 
 **Project:** Customer Churn & Retention Analysis  
 
@@ -319,7 +302,7 @@ The results identify patterns, but further investigation would be needed to unde
 
 **Focus:** Data Cleaning | EDA | SQL Analysis | Dashboard Development | Business Insights
 
-## ## Author
+##Author
 
 **Naresh Ireni**  
 Aspiring Data Analyst
@@ -333,7 +316,3 @@ This project was an opportunity to apply my skills in Excel, Python, SQL and Pow
 ---
 
 *Feedback and suggestions are welcome.*
-
----
-*Feedback and suggestions are welcome.*
-
