@@ -231,12 +231,10 @@ Based on the analysis, I identified a few areas where a business could focus its
 
 
 These are suggested actions that would need further investigation and testing.
-
-
-
 ## Repository Structure
 
 ```text
+
 Customer-Churn-Retention-Analysis/
 │
 ├── data/
@@ -271,38 +269,29 @@ Customer-Churn-Retention-Analysis/
 └── README.md
 ```
 
-```
-
 ## What I Learned
 
 Working on this project gave me practical experience with the complete data analysis workflow.
 
-
 I learned how to handle data-quality issues, explore customer behaviour, write SQL queries, create business-focused visualisations and present findings through an interactive dashboard.
-
 
 One important takeaway was that calculating churn rates is only part of the work. Understanding which customer groups are affected and communicating what the business could investigate next is equally important.
 
-
-
 ## Limitations
 
-
-
 This analysis uses a historical snapshot of customer data. It does not include detailed customer feedback, satisfaction scores or complaint histories.
-
 
 The results identify patterns, but further investigation would be needed to understand the actual reasons behind customer churn and evaluate whether the suggested retention actions are effective.
 
 ---
 
-**Project:** Customer Churn & Retention Analysis  
+**Project:** Customer Churn & Retention Analysis
 
-**Tools:** Excel | Python | MySQL | Power BI  
+**Tools:** Excel | Python | MySQL | Power BI
 
 **Focus:** Data Cleaning | EDA | SQL Analysis | Dashboard Development | Business Insights
 
-##Author
+## Author
 
 **Naresh Ireni**  
 Aspiring Data Analyst
@@ -311,7 +300,7 @@ I'm interested in working with data to understand business problems, find meanin
 
 This project was an opportunity to apply my skills in Excel, Python, SQL and Power BI through a complete data analysis workflow.
 
-**GitHub:** [NareshIreni](https://github.com/NareshIreni), 
+**GitHub:** [NareshIreni](https://github.com/NareshIreni)
 
 ---
 
